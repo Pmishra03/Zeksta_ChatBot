@@ -60,7 +60,8 @@ trainer.train([
     'We serve clients across healthcare, education, logistics, retail, finance, e-commerce, and more.',
     
     'Thank you',
-    'You’re welcome! Is there anything else I can help you with?',
+    
+    "You're welcome! Is there anything else I can help you with?",
     
     'Bye',
     'Goodbye! Have a great day ahead.'
